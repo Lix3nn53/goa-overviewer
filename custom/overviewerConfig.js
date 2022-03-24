@@ -40,9 +40,9 @@ var overviewerConfig = {
   tilesets: [
     {
       name: "Guardians of Adelia",
-      zoomLevels: 9,
+      zoomLevels: 10,
       defaultZoom: 5,
-      maxZoom: 9,
+      maxZoom: 10,
       path: "adelia",
       base: "https://raw.githubusercontent.com/Lix3nn53/goa-overviewer/master/remote/",
       bgcolor: "#1a1a1a",
