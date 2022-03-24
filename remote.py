@@ -44,8 +44,7 @@ renders["adelia"] = {
         ###       the Overviewer by default, located in a subdirectory of web_assets.
   "imgformat": "webp",
   "imglossless": False,
-  "imgquality": 40,
-  "base": "testtinnggg.com/",
+  "imgquality": 80,
 }
 
 # This example is the same as above, but rotated

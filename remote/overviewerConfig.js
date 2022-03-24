@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1648101911",
+        "cacheTag": "1648107828",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -46,7 +46,7 @@ var overviewerConfig = {
             "defaultZoom": 5,
             "maxZoom": 9,
             "path": "adelia",
-            "base": "testtinnggg.com/",
+            "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Adelia",
             "last_rendertime": 1647970276,
