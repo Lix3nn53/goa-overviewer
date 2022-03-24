@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1648107828",
+        "cacheTag": "1648138484",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -42,14 +42,14 @@ var overviewerConfig = {
     "tilesets": [
         {
             "name": "Guardians of Adelia",
-            "zoomLevels": 9,
+            "zoomLevels": 10,
             "defaultZoom": 5,
-            "maxZoom": 9,
+            "maxZoom": 10,
             "path": "adelia",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Adelia",
-            "last_rendertime": 1647970276,
+            "last_rendertime": 1648135639,
             "imgextension": "webp",
             "isOverlay": false,
             "poititle": "Markers",

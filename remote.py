@@ -34,7 +34,7 @@ renders["adelia"] = {
   "defaultzoom": 5,
         'world': 'Adelia',
         'title': 'Guardians of Adelia',
-        'crop': (500, 0, 3100, 2500),
+        'crop': (-10, -10, 5000, 5000),
         "manualpois" : mymarkers,
         'markers': [dict(name="Towns", filterFunction=townFilter, icon="markers/marker_tower.png", checked=True)],
         ### Note: The 'icon' parameter allows you to specify a custom icon, as per
